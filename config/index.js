@@ -12,25 +12,14 @@ const CONFIG = {
   APP_SECRET: "2d8307b8176db052c5190e3f64fb4f7f",
 
   // 微信公众号的模板ID
-  TEMPLATE_ID: "nfYjahhpAXswqVvMux82ixIVapStkBk_2sttc6BNYRA",
+  TEMPLATE_ID: "R2-Zq6R-vbNYAZkC5TFFic-9rwfqdmV3uu7PXB34nvY",
 
   // 天行API的key
   TXApiKey: "4275fd11fb0f83283d740d60439a8214",
 
   // 用户列表 可配置多个用户
   user: [
-    {
-      // 男(女)朋友的名字（或昵称或网名）
-      userName: "晴晴",
-      // 用户列表的`微信号`
-      userId: "oPiQI6P82Aa502rEits2tPJBetlI",
-      // 星座
-      star: "狮子座",
-      // 生日 - 格式：08-22
-      birthday: "08-17",
-      // 城市 - 格式：支持省市县区
-      city: "历下区",
-    },
+  
     {
       // 男(女)朋友的名字（或昵称或网名）
       userName: "hh",
