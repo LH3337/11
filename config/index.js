@@ -12,7 +12,7 @@ const CONFIG = {
   APP_SECRET: "2d8307b8176db052c5190e3f64fb4f7f",
 
   // 微信公众号的模板ID
-  TEMPLATE_ID: "luPExtzqRE9KkSZ2zel2P2Pcl1EjANfYt69Zr42cERM",
+  TEMPLATE_ID: "QSanmRYUeCNSUXHZ9baoaEUy1fQkkBCbnHV-RkLWlXM",
 
   // 天行API的key
   TXApiKey: "4275fd11fb0f83283d740d60439a8214",
@@ -25,7 +25,7 @@ const CONFIG = {
       // 用户列表的`微信号`
       userId: "oPiQI6P82Aa502rEits2tPJBetlI",
       // 星座
-      star: "摩羯座",
+      star: "狮子座",
       // 生日 - 格式：08-22
       birthday: "08-17",
       // 城市 - 格式：支持省市县区
@@ -37,7 +37,7 @@ const CONFIG = {
       // 用户列表的`微信号`
       userId: "oPiQI6GlKjF_Jmy8Sv5f_mhWbvKg",
       // 星座
-      star: "摩羯座",
+      star: "水瓶座",
       // 生日 - 格式：08-22
       birthday: "08-17",
       // 城市 - 格式：支持省市县区
@@ -66,14 +66,8 @@ const CONFIG = {
     saylove: true,
     // 健康小提示
     healthtip: true,
-    // 毒鸡汤
-    duJiTang: true,
     // 早安心语
     zaoAn: true,
-    // 晚安心语
-    wanAn: true,
-    // 彩虹屁
-    caiHongPi: true,
   },
 };
 
