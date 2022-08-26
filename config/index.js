@@ -22,9 +22,21 @@ const CONFIG = {
   
     {
       // 男(女)朋友的名字（或昵称或网名）
-      userName: "hh",
+      userName: "晴晴",
       // 用户列表的`微信号`
       userId: "oPiQI6P82Aa502rEits2tPJBetlI",
+      // 星座
+      star: "水瓶座",
+      // 生日 - 格式：08-22
+      birthday: "08-17",
+      // 城市 - 格式：支持省市县区
+      city: "历下区",
+    },
+        {
+      // 男(女)朋友的名字（或昵称或网名）
+      userName: "hh",
+      // 用户列表的`微信号`
+      userId: "oPiQI6GlKjF_Jmy8Sv5f_mhWbvKg",
       // 星座
       star: "水瓶座",
       // 生日 - 格式：08-22
