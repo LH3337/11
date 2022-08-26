@@ -26,8 +26,8 @@ const CONFIG = {
       // 用户列表的`微信号`
       userId: "oPiQI6P82Aa502rEits2tPJBetlI",
       // 星座
-      star: "水瓶座",
-      // 生日 - 格式：08-22
+      star: "狮子座",
+      // 生日 - 格式：08-17
       birthday: "08-17",
       // 城市 - 格式：支持省市县区
       city: "历下区",
